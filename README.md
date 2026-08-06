@@ -4,6 +4,14 @@ Case study of my current full-stack, data, and cloud systems work at [Jakomu](ht
 
 > Jakomu source code, customer information, lead data, credentials, and internal operating material remain private. This case study uses public product surfaces, sanitized system descriptions, and metrics that can be discussed publicly.
 
+| Result | My scope | Verification |
+| --- | --- | --- |
+| Reusable platform foundations, client-specific interfaces, and AWS workflows designed to keep delivery maintainable and cloud cost proportional to demand | Full-stack implementation across interfaces, NestJS and PostgreSQL services, data workflows, cloud resources, and access controls | Unit and browser checks, CI build gates, local review, and production-surface verification |
+
+![Jakomu Managed public product surface](assets/jakomu-managed-home.webp)
+
+*Public Jakomu Managed experience. Internal code, customer information, and operating data are not shown.*
+
 ## Context
 
 Jakomu delivers managed websites, business tools, and tailored software. The engineering challenge is to combine reusable foundations with client-specific interfaces while keeping deployment, maintenance, data quality, and cloud cost manageable as the customer base grows.
@@ -18,6 +26,16 @@ I work as a Software Developer across the interface, backend, data, cloud, and v
 - An end-to-end lead sourcing and scoring pipeline using licensed stored profiles, Google aggregate market data, public IRS and Census data, ZIP scoring, website scoring, deduplication, enrichment, human review, and HubSpot-ready exports
 - A website-audit workflow that combines PageSpeed Insights evidence with Gemini-generated recommendations and PDFs, followed by authenticated salesperson review, controlled revisions, and human approval
 - Automated checks across responsive interfaces, APIs, data-processing behavior, and release gates
+
+## Sanitized product evidence
+
+![Sanitized Jakomu lead-generation workspace](assets/jakomu-lead-generation-workspace.webp)
+
+*Sanitized internal workspace showing bounded sourcing, operator review, and export controls with synthetic records.*
+
+![Public Jakomu website-audit intake](assets/jakomu-audit-intake.webp)
+
+*Public audit intake explains the automated first pass and the required human review before a report is shared.*
 
 ## System view
 
