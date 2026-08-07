@@ -1,6 +1,6 @@
 # Jakomu Platform Engineering
 
-Case study of my current full-stack, data, and cloud systems work at [Jakomu](https://www.jakomu.net/).
+Case study of my current full-stack, data, and cloud systems work at [Jakomu](https://jakomu.com/).
 
 > Jakomu source code, customer information, lead data, credentials, and internal operating material remain private. This case study uses public product surfaces, sanitized system descriptions, and metrics that can be discussed publicly.
 
@@ -87,7 +87,7 @@ The private monorepo uses unit, integration, accessibility, and browser checks a
 
 ## Public evidence
 
-- [Jakomu](https://www.jakomu.net/)
+- [Jakomu](https://jakomu.com/)
 - [Jakomu portfolio case study](https://renaldomusto.com/work/jakomu/)
 - [Engineering proof and verification](https://renaldomusto.com/proof/)
 
